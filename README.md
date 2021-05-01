@@ -29,7 +29,6 @@ I'm a Front-End developer from Brazil. I'm **27 year old** and have **1 year of 
 <a href="https://api.whatsapp.com/send?phone=5532999930257">
  <img src="https://user-images.githubusercontent.com/58795242/116790726-3bc76a00-aa8c-11eb-9b9f-bfaf4d51e6a3.png" alt="Whatsapp" width="50"/>
 </a>
-
 <a href="https://www.facebook.com/vinicius.paularesende/">
   <img src="https://user-images.githubusercontent.com/58795242/116790778-82b55f80-aa8c-11eb-8ef3-0c26ea55ef67.png" alt="Facebook" width="50" aligh="left"/>
 </a>
