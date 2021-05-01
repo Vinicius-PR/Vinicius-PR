@@ -35,3 +35,7 @@ I'm a Front-End developer from Brazil. I'm **27 year old** and have **1 year of 
 <a href="https://www.linkedin.com/in/vinicius-p-resende-330266165/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
+<br/>
+<br/>
+
+[![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius-PR&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
