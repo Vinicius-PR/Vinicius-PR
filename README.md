@@ -7,7 +7,7 @@ I'm a Front-End developer from Brazil. I'm **27 year old** and have **1 year of 
 + 🏡 I live in a small city called Resende Costa; State Minas Gerais
 + 🤓 I'm currently studying Next.js with RocketSeat.
 + 🧐 Focused on Next.js, Sass and Typescript.
-+ 🤖 I'm always learing new technologies 
++ 🤖 I'm always learing new technologies. Chakra, StyledComponents, hooks ...
 
 ---
 
