@@ -5,7 +5,7 @@ I'm a Front-End developer from Brazil. I'm **28 year old** and have **2 year of 
  ---
 
 + 🏡 I live in a small city called Resende Costa; State Minas Gerais
-+ 🤓 I'm currently... 'cough, cough'... I'm awalys Studying about about programming and technologies.
++ 🤓 I'm currently... 'cough, cough'... I'm awalys Studying about programming and technologies.
 + 🧐 Focused in getting better than I was yesterday.
 + 🤖 I have a wish: To join your team of dev. Do you have a spot? O.O
 
