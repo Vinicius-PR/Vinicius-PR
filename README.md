@@ -1,6 +1,6 @@
 ## Hi, My name is Vinicius Paula Resende
 
-I'm a Front-End developer from Brazil. I'm **28 year old** and have **2 year of colding.👨‍🎓**
+I'm a Front-End developer from Brazil. I'm **29 year old** and have **3 years of colding.👨‍🎓**
 
  ---
 
